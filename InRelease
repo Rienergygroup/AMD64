@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 05 Apr 2022 14:31:51 +0000
+MD5Sum:
+ 6379f77715efe9163ee3144270338a1f              527 Packages
+ 35ac8ccb58b40b2ce152f4e8071aafb0              372 Packages.gz
+ bc8416258affdcd764dfd04ba81261f5               38 Release
+SHA1:
+ 47410ca304a02601b567c2c792a88f92993d37ca              527 Packages
+ 17271779d6ae0954123cbf2c81e729c8d1bb64af              372 Packages.gz
+ f69bc2d4a1dd96336ccd6a116da7aa840e498de4               38 Release
+SHA256:
+ 7010ee2c09db8a76cbc89abd6b9af557337ad392727b690a3687a355c9f18d4f              527 Packages
+ 5d812d2258076a56cda3da63fa72facbb34d361bea7d7fa05367383d61a8a8be              372 Packages.gz
+ 9a52ec716b961e706c741cd1c0f115baf88039d8f3cb53ddfc7a8cfad2a50305               38 Release
+SHA512:
+ 8b35dcaf018e5ab23971fbf29bb0cb72f1848f545ffbe430c55d8d2084d2553822ca17dd36a322f5fed166099e5e929a8808c51e9b7382bfa94233fd025f7b4a              527 Packages
+ e2d07d6c63e2cf0ddcaab0a46fae18d1799be3035210487adefca32d4b17abfdc43138fb30d0a6546178a0400550a1891f85731fa67f1133c42bbc26e193e537              372 Packages.gz
+ ccb5ea2e95f840e147dd48a5877bfaa8174e374cad0da0891de0d24d1d2fc8c3c61c6e2e186b0bec686f36aeb7593d1c234e800032f22e09f50041f160055c07               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJRBAEBCgA7FiEEB7J4rYB1ZCCrthO4dAvCRKvOjsUFAmJMUuIdHHJpZW5lcmd5
+Z3JvdXAuaW5mb0BnbWFpbC5jb20ACgkQdAvCRKvOjsUbag//SZmslwd70l1fTnh6
+D8CdgN8IuhbO6hbLvyfhbtKcpvcWXatC1GmN6VpIuEcqKYrYZrjhdKWIE514VzlC
+Mr5cR30lZ95A827kkE1LCNcVt5j9CLtbOswDVeUkAflpHSJQskE9Hjfo8plzjjuN
+7EMS1nnGOBQw96wrTdYp1ZOT+f5zH7OJe+vt7iE+rg19OlRTU4vCQeSDVlOfJ3Fl
+3laab8oTnDHN7T5JPfjESUVA/HcWqgsgqREWs+TVoKlSNyMO+u5sPgXWeivtj72V
+IMbQEYp/AtiTuXaHPYojxi1aYbpgXj6sai+gO9/VKAdppSmfitsiJbmrc4mzruoT
+NfnAxJU+XNJn6SUIQe5O57LvhCcpVO/Qb87E5kfcXWggsuSIRxNFYqBpSgzsRkTd
+R9I21mOoBzWUwmxEkhAb6FPes1tB+q6mN3lXw1nILP83GEkydf4rrOLZj4eIwBuI
+S6GFhhPRXYxk4nx9paW2fmftpngWitFmLYd5LEaZvl7pPrmkyXgaSxhEIyEJm7Vf
+vwMaBtgsYeCoTQUT5vhxG6zoOtbrBRkiq7HOoyNm8EQ6UBwpm8sLswm0UrIbmlkc
+ZMbwcPzRuIaEDPBYFPYhM1Bxadz3XXklHM16B5ZVL+FUvT2O+uCytPS3VNKYsPZl
+iTTgqfKrSQcZEgyzqVpiuX1xUJ4=
+=Whbs
+-----END PGP SIGNATURE-----

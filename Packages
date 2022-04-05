@@ -1,0 +1,15 @@
+Package: gestore-sensori-web
+Version: 1.0
+Architecture: amd64
+Essential: no
+Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
+Depends: python3
+Filename: ./gestoresensoriweb-1.0_amd64.deb
+Size: 6865528
+MD5sum: bb9855615e5b679ea90c3575b3640582
+SHA1: d613a57759d3e0675ebd7fe0b928c055da4457f3
+SHA256: c13d793d352b246e15e475cad95fdf7c079a649bb2ba8c30a96e7157abc6f7d3
+Priority: optional
+Description: Piattaforma web per la gestione delle centraline
+  Piattaforma web per la gestione delle centraline di RienergyGroup srl
+
