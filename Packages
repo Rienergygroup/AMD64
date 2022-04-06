@@ -20,7 +20,7 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 23697818
 Depends: python3
-Filename: ./gestoresensoriweb-2.0_amd64.deb
+Filename: ./gestoresensoriweb-1.1_amd64.deb
 Size: 6865380
 MD5sum: 1000794256332325bba783bf3967c863
 SHA1: 62cf487c61311f34630bc48f7ecd79183a80da48
