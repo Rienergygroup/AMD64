@@ -6,10 +6,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 23140
 Depends: python3
 Filename: ./gestoresensoriweb-1.0_amd64.deb
-Size: 6865848
-MD5sum: 452e06cc1de9ea4b840c7bf835a0fc32
-SHA1: 213a3556829ea4e801acb481a0b44d70464529f7
-SHA256: 65483b9d221cf07f3553b6c28fff8ae40f439dbcd1986e3b17d6663c60e18ac5
+Size: 6865780
+MD5sum: ae1654d0be21efc205e1f30e21a4dbde
+SHA1: 543387dbb0b772b573a6dbdc5a6dbe31a21e7fca
+SHA256: 9222edbe7c6165a71ed73995263343d2b53cd7b862487e33a99192a0bd9373f9
 Priority: optional
 Description: Piattaforma web per la gestione delle centraline
   Piattaforma web per la gestione delle centraline di RienergyGroup srl
@@ -22,10 +22,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 23142
 Depends: python3
 Filename: ./gestoresensoriweb-1.1_amd64.deb
-Size: 6865980
-MD5sum: 9298ca313e2bcfff23b85ffcfd3604d7
-SHA1: 85f2e80d5fea8caac7fcd7939e2d5f443f6cc7d1
-SHA256: 86317823a69c49e73db5874db3760a989a9b25c9186e39abe60dc87e4132f67e
+Size: 6865904
+MD5sum: 8958618f649c4ebcfeaac4b506f657ab
+SHA1: 9e87b515024a39fc2bcb362685e835c48b2b5d5b
+SHA256: 25ff87ab71a2e63629449a339ae43a4eb9eac39eec0455971cc270ed1e2da14a
 Priority: optional
 Description: Piattaforma web per la gestione delle centraline
   Piattaforma web per la gestione delle centraline di RienergyGroup srl
